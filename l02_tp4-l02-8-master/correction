@@ -1,0 +1,2 @@
+notebook: la variable df_2016 n´était pas accessible, car elle etait initialisee dans la fonction. Le test 3 devrait egalement passe.
+total: 17/20
